@@ -341,6 +341,7 @@ body {
   text-align: center;
   margin-bottom: 20px;
   color: var(--small-text);
+  font-weight: 500;
 }
 
 /* hero 2 */
