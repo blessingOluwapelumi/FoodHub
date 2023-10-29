@@ -145,8 +145,8 @@
 
   .hero {
     flex-direction: column;
-
-overflow: hidden;
+    overflow: hidden;
+    gap: 80px;
 
   
   }
@@ -270,10 +270,6 @@ overflow: hidden;
   left: 1rem;
 }
 
-
-.navbar-container .book {
-display: none;
-}
 
 .navbar .menu-items {
   right: -50px;
