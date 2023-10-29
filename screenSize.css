@@ -268,8 +268,39 @@
 
 .navbar-container .logo {
   left: 1rem;
+  top: 10px
 }
 
+
+.navbar-container .book {
+    
+    right: 6rem;
+    
+}
+
+  
+
+  .navbar-container input[type="checkbox"] {
+    position: absolute;
+    display: block;
+    height: 32px;
+    width: 30px;
+    top: 15px;
+    right: 2.4rem;
+    z-index: 5;
+    opacity: 0;
+  }
+
+  .navbar-container .hamburger-lines {
+     
+    right: 4rem;
+  }
+
+
+
+
+  
+  
 
 .navbar .menu-items {
   right: -50px;
@@ -292,6 +323,11 @@
   padding: 100px 24px;
 }
 
+.hero2_text{
+  width:80%
+}
+
+  
 
 /* chef */
 .chef_container{
