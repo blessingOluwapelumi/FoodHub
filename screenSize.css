@@ -1,7 +1,11 @@
 @media (max-width: 1000px) {
-  .navbar-container {
-    opacity: 0.95;
+.navbar{
+  opacity: 1
 
+}
+  
+  .navbar-container {
+    opacity: 1;
     display: block;
     position: relative;
   }
