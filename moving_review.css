@@ -214,6 +214,24 @@
       
     }
 
+.contents-wraper .review_header h1 {
+    font-size: 22px;
+}
+    
+
+    .testItem .review-text .sub-text {
+    font-size: 14px;
+    }
+
+.review-text .name{
+        font-size:14px;
+}
+
+.review-text .job {
+    font-size: 12px;
+    
+}
+
 
 }
 
@@ -275,6 +293,9 @@
         bottom: 20px;
        
     }
+
+    .review-text .star .rating{
+        font-size: 12px;
 
 }
 
