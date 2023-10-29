@@ -231,7 +231,13 @@
 
 /* Screen sizes lower than 667px */
 @media screen and (max-width: 677px) {
+  .navbar-container .book {
+    
+    z-index: 1;
+  }
 
+
+  
 
   .galleryTop .big_head {
     font-size: 22px;
