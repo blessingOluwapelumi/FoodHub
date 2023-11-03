@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Montserrat&family=Spectral:ital,wght@0,800;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Montserrat&family=Spectral:ital,wght@0,800;1,600&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Montserrat&family=Poppins:wght@500;600;700;800&family=Spectral:ital,wght@0,800;1,600&display=swap')
 * {
   margin: 0;
   padding: 0;
@@ -22,8 +22,10 @@
 }
 
 body {
-  font-family: "poppins", sans-serif;
-  font-family: "Montserrat", sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Spectral', serif;
 }
 
 .container {
